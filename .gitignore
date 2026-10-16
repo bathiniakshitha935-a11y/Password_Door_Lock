@@ -1,0 +1,6 @@
+results/*
+!results/password_door_lock.vcd
+!results/password_door_lock_mapped.v
+*.log
+!reports/synthesis.log
+!reports/sta.log
