@@ -32,3 +32,17 @@ See `reports/sta.log` and `reports/sta.tcl`.
 
 These are pre-layout results. Full RTL-to-GDS implementation,
 routed timing, DRC and LVS have not yet been verified.
+
+## Multi-corner pre-layout STA
+
+All three separate STA runs completed successfully.
+
+| Timing corner | Maximum slack (ns) | Minimum slack (ns) |
+|---|---:|---:|
+| TT, 25°C, 1.80 V | 18.68 | 0.35 |
+| SS, 100°C, 1.60 V | 18.34 | 0.71 |
+| FF, -40°C, 1.95 V | 18.80 | 0.22 |
+
+The analysis used a 20 ns clock period and the SKY130 HD timing
+library. These are pre-layout results; routed parasitics and
+signoff timing have not been verified.

@@ -4,3 +4,13 @@ results/*
 *.log
 !reports/synthesis.log
 !reports/sta.log
+
+# Include multi-corner STA reports
+!reports/sta_tt_025C_1v80.log
+!reports/sta_ss_100C_1v60.log
+!reports/sta_ff_n40C_1v95.log
+
+# Include multi-corner STA reports
+!reports/sta_tt_025C_1v80.log
+!reports/sta_ss_100C_1v60.log
+!reports/sta_ff_n40C_1v95.log
