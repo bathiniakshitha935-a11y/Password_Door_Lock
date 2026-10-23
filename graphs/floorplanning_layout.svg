@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='650' viewBox='0 0 800 650'>
+<rect width='100%' height='100%' fill='#f8fafc'/>
+<text x='400' y='28' text-anchor='middle' font-family='Arial' font-size='20' font-weight='bold'>Floorplanning</text>
+<rect x='130.0' y='55.0' width='540.0' height='540.0' fill='#e2e8f0' stroke='#334155' stroke-width='2'/>
+<rect x='258.25158413517954' y='215.82140342642572' width='279.8216381131191' height='241.29547054682' fill='#d1fae5' stroke='#047857' stroke-width='2'/>
+<text x='55' y='615' font-family='Arial' font-size='13'>Die: 42.61 × 42.61 µm</text>
+<text x='55' y='635' font-family='Arial' font-size='13'>Core: 22.08 × 19.04 µm | Instances: 11 | Placed: 0</text>
+<text x='600' y='615' font-family='Arial' font-size='12' fill='#2563eb'>■ Standard cells</text>
+</svg>
